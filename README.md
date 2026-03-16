@@ -23,4 +23,4 @@ Requires Pehkui and/or Pehkui4All for hitbox scaling
 
 Figura only works with `.bbmodel` files made in Blockbench version [4.12.6](https://github.com/JannisX11/blockbench/releases/tag/v4.12.6) or earlier 
 
-The transparent portions of the texture are to ensure the limbs can properly sink into the body, covering these will cause unintended covering of the limbs and head
+The transparent portions of the texture are to ensure the limbs can properly sink into the body, ignoring them will cause unintended covering of the limbs and head

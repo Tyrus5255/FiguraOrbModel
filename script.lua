@@ -1,4 +1,4 @@
---Sphere Base Model
+--Sphere Base Model V1.0
 --by Tyrus5255
 --Originally based on models by InstantNootles
 local sphere = require('Sphere')

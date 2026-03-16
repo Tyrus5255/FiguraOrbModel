@@ -11,6 +11,8 @@ Spherical player model template for Figura 0.1.5
 - **Togglable First Person View**
 - **Togglable Passive Gurgling**
 
+
+## ⚠ 
 Requires Pehkui and/or Pehkui4All for hitbox scaling
 
 **⚠ ENSURE Figura's "Chat Messages" setting is set to _ON_ for hitbox scaling to occur ⚠**

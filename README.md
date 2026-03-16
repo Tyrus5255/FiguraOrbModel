@@ -1,5 +1,7 @@
 # Figura Orb Model Template
 
+<img width="427" height="452" alt="image" src="https://github.com/user-attachments/assets/ea3c8ee0-eeae-48e2-a51c-728d968ab1e2" />
+
 Spherical player model template for Figura 0.1.5
 
 ## ⚙️ Features
